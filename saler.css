@@ -1,0 +1,110 @@
+#header {
+	font-family: sans-serif;
+	height: 70px;
+	border-bottom: 1px solid #ccc;
+}
+#serviceLeft {
+	font-size: 20px;
+	height:60px;
+	float: left;
+	margin: 10px 0 0 0;
+}
+#serviceLeft ul li {
+	display: inline-table;
+	list-style-type: none;
+}
+#header ul li a {
+	text-decoration: none;
+	color: black;
+}
+#item1 {
+	width: 100px;
+	height: 50px;
+    margin: 0 0 5px 0 ;
+}
+#serviceRight{
+	height: 50px;
+	float: right;
+	margin: 20px 0 0 0;
+}
+#serviceRight ul {
+	font-size: 15px;
+    margin: 0 12px
+}
+#serviceRight ul li {
+	display: inline-table;
+}
+#serviceRight ul li a {
+	padding: 10px;
+}
+#item2 {
+	width: 20px;
+	height: 20px;
+	border-radius: 5px;
+}
+#main {
+	background: url(ChannerSaler/background.png);
+	height: 710px;
+}
+#picture img {
+	margin: 150px 0 0 200px;
+	float: left;
+}
+#import {
+	width: 400px;
+	height: 500px;
+	float: right;
+	margin: 100px 200px 0 0;
+	background: white;
+	border-radius: 30px;
+}
+#import h1 {
+	text-align: center;
+	font-size: 25px;
+    margin: 30 20 0;
+}
+.form-group {
+	margin: 30 10 0 40; 
+}
+input {
+	width: 300px;
+	padding: 5px;
+	border-radius: 10px;
+	border-color: orangered;
+}
+#near {
+	width: 140px;
+	float: left;
+	margin: 10 0 0 40;
+}
+#notPass {
+	width: 200px;
+	float: right;
+	margin: 10 0 0 0;
+}
+#notPass ul li {
+	list-style-type: none;
+}
+#notPass ul li a {
+	text-decoration: none;
+}
+button {
+	width: 320px;
+	background-color: orangered;
+	color: white;
+}
+hr {
+	width: 320px;
+}
+#login ul li {
+	list-style-type: none;
+}
+#login ul li a {
+  text-decoration: none;
+}
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+#header {
+	height: 80px;
+	font-family: sans-serif;
+	border: 1px solid #ccc;
+}
+#menu1 {
+	width: 700px;
+	height: 80px;
+	float: left;
+	margin-left: 120px
+}
+#menu1 ul {
+	font-size: 20px;
+	height: 80px
+}
+#menu1 ul li {
+	list-style-type: none;
+	display: inline-table;
+	margin:  0 20px;
+}
+#menu1 ul li a {
+	text-decoration: none;
+	color: black;
+}
+#menu1 ul li a:hover {
+	text-decoration: underline;
+    text-decoration-color: blue
+}
+#logo1 {
+	width: 120px;
+	height: 65px;
+    margin:  7px;
+}
+#menu2 {
+	width: 350px;
+	float: right;
+}
+#menu2 ul li {
+	display: inline-table;
+	list-style-type: none;
+}
+#menu2 ul li a img {
+	width: 30px;
+	height: 30px;
+	border-radius: 25px;
+	border: 1px solid #ccc;
+	margin: 20px; 
+}
+#banner {
+	width: auto;
+	height: ;
+	background: url(DowloadApp/banner_bg_pc.8bb0ab2f.png);
+}
+#menu2 ul li a img:hover {
+	border-color: blue;
+}
